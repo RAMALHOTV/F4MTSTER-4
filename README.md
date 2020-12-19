@@ -1,6 +1,6 @@
 
 #EXTM3U
-#EXTINF:-1, [B][COLOR  yellow] RAMALHOTV[/B][/COLOR]  [B][COLOR lime] -SERVIDOR 05 [/B][/COLOR]
+#EXTINF:-1, [B][COLOR  yellow] RAMALHOTV[/B][/COLOR]  [B][COLOR lime] -SERVIDOR 04 [/B][/COLOR]
 http://canais.servidor
 
 #EXTINF:-1,A&E FHD
